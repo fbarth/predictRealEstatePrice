@@ -12,11 +12,11 @@ price <- function(bairro, area, dormitorios, suites, vagas){
 shinyServer(
   function(input, output) {
     output$prediction <- renderPrint({
-        price(input$bairro,
-              input$area, 
-              input$dormitorios,
-              input$suites,
-              input$vagas)
+      paste("R$", 
+            format(price(input$bairro,input$area,input$dormitorios,input$suites,input$vagas),
+                   decimal.mark=",", big.mark=".", small.mark="."
+                   )
+      )
       })
   }
 )

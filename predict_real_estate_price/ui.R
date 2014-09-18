@@ -1,8 +1,12 @@
 shinyUI(
-  pageWithSidebar(
+  fluidPage(
     # Application title
-    headerPanel("Real Estate Price Prediction"),
-    
+    fluidRow(
+      h1("Real Estate Prices Prediction"),
+      p("The goal of this app is predict real estate prices in Sao Paulo, Brazil."),
+      p("You can select the real estate attributes in the left menu and see the 
+        price in the right side.")
+      ),    
     sidebarPanel(
       selectInput('bairro', 'Bairro', c('paraiso',
                                         'perto_ibirapuera',
@@ -16,11 +20,9 @@ shinyUI(
       submitButton('Submit')
     ),
     mainPanel(
-      h3('Results of prediction'),
-      #h4('You entered'),
-      #verbatimTextOutput("inputValue"),
-      #h4('Which resulted in a prediction of '),
-      verbatimTextOutput("prediction")
+      h3('Real Estate Price:'),
+      verbatimTextOutput("prediction"),
+      p("The price show above is in Brazilian real (BRL)")
     )
   )
 )
