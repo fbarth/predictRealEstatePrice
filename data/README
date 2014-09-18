@@ -1,0 +1,27 @@
+O arquivo source.sh executa a captacao dos dados.
+
+As APIs que construimos nao tem um padrao de nomes para os atributos :(
+
+Serah necessario tratar cada um dos arquivos JSON resultantes, alterando o nome dos atributos para um padrao comum.
+
+Os atributos esperados pelo arquivo captura_dados.R sao:
+
+- preco
+- area
+- dormitorios
+- vagas
+- suites
+- banheiros
+- descricao
+- data_atualizacao
+
+cat aclimacao.json | sed 's/banheiro/banheiros/' > aclimacao.json
+cat aclimacao.json | sed 's/property2/data_atualizacao/' > aclimacao.json
+cat bela_vista.json | sed 's/Valor/preco/' > bela_vista.json
+cat bela_vista.json | sed 's/Area/area/' > bela_vista.json
+cat bela_vista.json | sed 's/Dormitorios/dormitorios/' > bela_vista.json
+cat bela_vista.json | sed 's/Vagas/vagas/' > bela_vista.json 
+cat bela_vista.json | sed 's/Suites/suites/' > bela_vista.json
+cat bela_vista.json | sed 's/Atualizacao/data_atualizacao/' > bela_vista.json
+cat bela_vista.json | sed 's/Banheiros/banheiros/' > bela_vista.json
+

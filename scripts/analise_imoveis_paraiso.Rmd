@@ -1,0 +1,81 @@
+Apartamentos de interesse
+========================================================
+
+O objetivo deste relatório é apresentar um modelo preditivo para preços de imóveis no bairro do Paraiso, cidade de São Paulo. Dados utilizados são de **08 de maio de 2016**.
+
+```{r}
+load('../data/paraiso.Rda')
+paraiso$bairro <- NULL
+paraiso <- paraiso[paraiso$area > 50,]
+summary(paraiso)
+dim(paraiso)
+```
+
+
+```{r fig.width=10, fig.height=12}
+par(mfrow=c(3,2))
+hist(paraiso$preco, col='cyan')
+hist(paraiso$area, col='cyan')
+hist(paraiso$suites, col='cyan')
+hist(paraiso$dormitorios, col='cyan')
+hist(paraiso$banheiros, col='cyan')
+hist(paraiso$vagas, col='cyan')
+par(mfrow=c(1,1))
+```
+
+```{r fig.width=10, fig.height=12}
+par(mfrow=c(3,2))
+boxplot(paraiso$preco, col='cyan', main='Preço', outline=FALSE)
+boxplot(paraiso$area, col='cyan', main='Área', outline=FALSE)
+boxplot(paraiso$suites, col='cyan', main='Suites', outline=FALSE)
+boxplot(paraiso$dormitorios, col='cyan', main='Dormitórios', outline=FALSE)
+boxplot(paraiso$banheiros, col='cyan', main='Banheiros', outline=FALSE)
+boxplot(paraiso$vagas, col='cyan', main='Vagas', outline=FALSE)
+par(mfrow=c(1,1))
+```
+
+```{r fig.width=7, fig.height=6}
+library(aplpack)
+bagplot(paraiso$preco, paraiso$area)
+````
+
+```{r fig.width=7, fig.height=6}
+library(psych)
+pairs.panels(paraiso[,c('preco','area','suites','dormitorios','banheiros','vagas')])
+````
+
+```{r fig.width=7, fig.height=6}
+m <- lm(preco ~ area, data=paraiso)
+plot(paraiso$preco ~ paraiso$area, pch=20, col='blue', main=paste(m$coefficients))
+abline(m, col='red', lwd=3)
+````
+
+````{r}
+model_1 <- lm(log(preco) ~ area + suites + dormitorios + banheiros + vagas, data=paraiso)
+model_2 <- lm(log(preco) ~ area + suites + vagas, data=paraiso)
+model_3 <- lm(log(preco) ~ area + suites + vagas + dormitorios, data=paraiso)
+````
+
+
+````{r}
+summary(model_1)
+summary(model_2)
+summary(model_3)
+````
+
+```{r fig.width=10, fig.height=8}
+par(mfrow=c(2,2))
+plot(model_3)
+````
+
+Aplicando o modelo em novos apartamentos
+----------------------------------------
+
+````{r}
+novos_apartamentos <- read.csv("../data/novos_apartamentos.csv", sep=";")
+novos_apartamentos
+exp(predict(model_3, novos_apartamentos))
+````
+
+
+

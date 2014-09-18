@@ -1,0 +1,2 @@
+library(shinyapps)
+deployApp()

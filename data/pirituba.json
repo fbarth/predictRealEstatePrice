@@ -1,0 +1,214 @@
+{
+  "name": "Imoveis_Pirituba",
+  "count": 20,
+  "frequency": "daily",
+  "version": 9,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Thu Apr 03 2014 22:53:01 GMT+0000 (UTC)",
+  "nextrun": "Fri Apr 04 2014 22:53:00 GMT+0000 (UTC)",
+  "results": {
+    "imoveis": [
+      {
+        "preco": "R$ 340.000",
+        "area": "62m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "atualizacao": "02-04-2014",
+        "descricao": "Liber bosque pirituba- pirituba. apto. novo, andar alto, com 62m², sala para 2 ambientes, 2 banheiros com janela, sendo 1 suíte, com aquecedor a..."
+      },
+      {
+        "preco": "R$ 277.000",
+        "area": "51m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento em são paulo. \nbem localizado, em frente ao tietê plaza shopping. *(preços e condições sujeito a alteração.)"
+      },
+      {
+        "preco": "R$ 410.000",
+        "area": "74m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "atualizacao": "28-02-2014",
+        "descricao": "Lindo apto todo mobiliado , com porcelanato fina decoração, lazer completo em região de crescente valorização !!consulte-nos e faça sua visita"
+      },
+      {
+        "preco": "R$ 325.000",
+        "area": "68m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento na vila jaguara, lindo com 03 dormitórios, sacada, armários nos quartos e na cozinha, sanca de gesso. **as informações e a..."
+      },
+      {
+        "preco": "R$ 390.000",
+        "area": "65m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "atualizacao": "23-03-2014",
+        "descricao": "Area de lazer / churrasqueira / academia / quadra poliesportiva piscina adulto e criança com toboágua local excelente: próximo de tudo que facilita..."
+      },
+      {
+        "preco": "R$ 770.000",
+        "area": "130m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento padrão, 3 dormitório(s), 4 banheiro(s), 1 suíte(s), 2 garagem(ns)"
+      },
+      {
+        "preco": "R$ 690.000",
+        "area": "72m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "-",
+        "atualizacao": "02-04-2014",
+        "descricao": "Destaques - predio com recuo, jardins, 1 vaga, bom local......2014-03-31 22:59:37"
+      },
+      {
+        "preco": "R$ 790.000",
+        "area": "103m²",
+        "dormitorios": "3",
+        "vagas": "-",
+        "suites": "1",
+        "banheiros": "2",
+        "atualizacao": "18-03-2014",
+        "descricao": "Apartamento, 103m²&nbsp;3 dormitórios (sendo 1 suíte com closet), 2 banheiros, cozinha, área de serviço, lavabo, sala com 2 ambientes, terraço..."
+      },
+      {
+        "preco": "R$ 1.000.000",
+        "area": "144m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "3",
+        "atualizacao": "02-04-2014",
+        "descricao": "Excelente apartamento bem localizado modernizado pronto para ser ocupado2014-03-31 21:26:42"
+      },
+      {
+        "preco": "R$ 550.000",
+        "area": "62m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "atualizacao": "24-03-2014",
+        "descricao": "Otimo apto, a 600m do shopping ibirapuera, 2 dorms. armarios nos quartos e cozinha2014-03-18 17:22:46"
+      },
+      {
+        "preco": "R$ 455.000",
+        "area": "64m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "atualizacao": "02-04-2014",
+        "descricao": "Líber bosque clube apto nunca habitado, reformado e mobiliado. grande oportunidade!!! vale a pena conhecer e se apaixonar. a 3 minutos do novo..."
+      },
+      {
+        "preco": "R$ 315.000",
+        "area": "49m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "atualizacao": "01-04-2014",
+        "descricao": "Apartamento novo, com fino acabamento.<br><br><br>o valor do imóvel pode ser alterado sem prévio aviso."
+      },
+      {
+        "preco": "R$ 340.000",
+        "area": "70m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Belo condomínio totalmente arborizado, com uma exelente área de laser, piscina de adulto aquecida, piscina infantil, 2 churrasqueiras podendo fazer..."
+      },
+      {
+        "preco": "R$ 320.000",
+        "area": "58m²",
+        "dormitorios": "2",
+        "vagas": "-",
+        "suites": "1",
+        "banheiros": "-",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento 2 dormitorios com suite e varanda, sala ambientes. piso laminado."
+      },
+      {
+        "preco": "R$ 450.000",
+        "area": "67m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "atualizacao": "28-02-2014",
+        "descricao": "Apto próximo a ponte do piqueri na marginal do tietê; trata-se de um apto novo (apenas dois anos),torre única,piscina;salão de jogos;salão de..."
+      },
+      {
+        "preco": "R$ 249.000",
+        "area": "51m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Condominio tem churrasqueira, salão de festa,acadêmia,plaground, quadra, brinquedoteca, pista de caminhada, salão de jogos, portaria, segurança 24..."
+      },
+      {
+        "preco": "R$ 790.000",
+        "area": "100m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Localizado a 1.890m de cptm vila olimpia, a 1.390m do parque do\ndo ibirapuera - portão 7/ a 1.010m de shopping ibirapuera.\nzona nobre de moema\no..."
+      },
+      {
+        "preco": "R$ 985.000",
+        "area": "132m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "atualizacao": "28-02-2014",
+        "descricao": "Apartamento com 03 dormitórios sendo 01 suíte, 02 vagas de garagem, lazer de clube, o condomínio é cercado com muito verde e animais silvestres,..."
+      },
+      {
+        "preco": "R$ 360.000",
+        "area": "70m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Oportunidade!!! lindo apartamento, bem conservado...porteira fechada... todo mobiliado, armários, camas, cortinas, lustres, geladeira, fogão, forno,..."
+      },
+      {
+        "preco": "R$ 850.000",
+        "area": "107m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "atualizacao": "28-02-2014",
+        "descricao": "Apartamento todo decorado com móveis planejados. lindo empreendimento com muito lazer e área verde. - ref.: pd13541"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2014 @@
+{
+  "name": "imoveis_vila_mariana",
+  "count": 200,
+  "frequency": "daily",
+  "version": 16,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Thu Apr 03 2014 22:34:47 GMT+0000 (UTC)",
+  "nextrun": "Fri Apr 04 2014 22:34:47 GMT+0000 (UTC)",
+  "results": {
+    "imoveis": [
+      {
+        "preco": "R$ 1.800.000",
+        "area": "156m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "3",
+        "descricao": "- prédio todo reformado: elevadores novos, gerador em todos os apartamentos e área comum. amplo lazer. terreno com frente para a tuim e fundos para...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.625.000",
+        "area": "210m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Belissimo apartamento com lazer total e seguranca total 24hs. proximo de comercios elegantes de moema, a restaurantes, shopping e ao lado da futura...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.385.000",
+        "area": "115m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Excelente apartamento de 3 dormitórios, sendo 1 suíte. lavabo. 2 vagas de garagem, andar alto. linda vista e numa localização privilegiada....",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 1.500.000",
+        "area": "127m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "ótimo apartamento localizado em um dos melhores condomínios clubes de moema. vale a pena visitar!",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 3.200.000",
+        "area": "319m²",
+        "dormitorios": "2",
+        "vagas": "4",
+        "suites": "2",
+        "banheiros": "-",
+        "descricao": "2014-04-01 20:45:52",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 550.000",
+        "area": "45m²",
+        "dormitorios": "1",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Totalmente mobiliadas e decoradas, equipamentos eletrodomésticos na cozinha,\ndois aparelhos de tv com sistema à cabo, ar condicionado tipo split na...",
+        "atualizacao": "06-12-2013"
+      },
+      {
+        "preco": "R$ 1.410.000",
+        "area": "176m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "ótimo apartamento living para dois ambientes, bastante ensolarado.andar alto com excelente vista. todos os dormitórios com terraço. com armários...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.600.000",
+        "area": "254m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "3",
+        "descricao": "Excelente cobertura duplex com hall living p/ 3 ambientes, 2 pisos de sala de estar e terraço com piscina e churrasqueira. sol abundante e espaços...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 535.000",
+        "area": "51m²",
+        "dormitorios": "1",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Primeiro piso living com lavabo, varanda, cozinha tipo americana e segundo piso mezanino com 01 suíte,bicicletário· câmeras de...",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 410.000",
+        "area": "35m²",
+        "dormitorios": "1",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "descricao": "A leardi com quase um século de tradição lidera o mercado imobiliário, e atende seus clientes visando sempre superar suas expectativas, por quatro...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.030.000",
+        "area": "120m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "2",
+        "banheiros": "2",
+        "descricao": "Cobertura duplex para vender,de dois dormitórios, no bairro de moema, são paulo. capital.\ncobertura duplex despojada, 01 vaga, 02 dormitórios,...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.240.000",
+        "area": "195m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Excelente apartamento com ótima distribuição interna, 3 suítes com amplo closet na suíte master, e 1 dormitório revertido para ampliação do...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.400.000",
+        "area": "143m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Empreendimento com lazer completo. apartamento com varanda, pronto para morar, armarios nos quartos e banheiros, cozinha reformada ha menos de um ano....",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 780.000",
+        "area": "98m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "3 dorms, sendo 1 suite com varanda\n1 dos quartos de solteiro possui closet\n2 apartamentos por andar\ncompleto com guarda-roupas e armarios de...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 3.600.000",
+        "area": "356m²",
+        "dormitorios": "5",
+        "vagas": "4",
+        "suites": "5",
+        "banheiros": "5",
+        "descricao": "Excelente local em condominio-clube com lazer completo. cobertura duplex, linda vista, ambientes amplos e boa conservacao",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.300.000",
+        "area": "115m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "A leardi com quase um século de tradição lidera o mercado imobiliário, e atende seus clientes visando sempre superar suas expectativas, por quatro...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.250.000",
+        "area": "116m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Apartamento com três dormitórios, uma suíte, sala para dois ambientes, varanda, lavabo, banheiro social, cozinha, a/s, b/s, uma vaga de",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 770.000",
+        "area": "70m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "2",
+        "banheiros": "2",
+        "descricao": "Apartamento em andar alto, inteiramente reformado, hidraulica e eletrica, fora de rota, com 2 suites. segunda vaga alugada pelo condominio. servicos...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.100.000",
+        "area": "150m²",
+        "dormitorios": "4",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "4",
+        "descricao": "Planta excepcional, com 150 metros muito bem distribuídos. sala muito boa para três ambientes. na parte íntima, a suíte possui um closet enorme....",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.750.000",
+        "area": "144m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "Apartamento alto padrao nas proximidades do shopping ibirapuera e futura estacao do metro. tres dormitorios, tres suites, duas vagas de garagem fixas,...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 600.000",
+        "area": "60m²",
+        "dormitorios": "1",
+        "vagas": "",
+        "suites": "2",
+        "banheiros": "1",
+        "descricao": "Completamente reformado, em localização privilegiada em moema, living 2 ambientes, 2 dormitórios, vaga com serviço de manobrista, dependência de",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 750.000",
+        "area": "77m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Recém reformado, piso frio em todos os ambientes, com armários planejados, excelente oportunidade.apartamento para venda - moema, 2 dormitório(s),...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 3.500.000",
+        "area": "245m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Excelente apartamento em rua arborizada, conta com 4 ótimas suítes, terraço gourmet e com toda estrutura de lazer.",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 890.000",
+        "area": "85m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "2",
+        "descricao": "Apartamento ensolarado em simpatco e bem cuidado condomino, com lazer completo em moema. bem distribuido, 87m2, atualmente se encontra com dois...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.920.000",
+        "area": "177m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "- 3 suítes - 2 vagas - depósito - living 3 ambientes - lavabo - sala jantar - sala almoço - 3 sacadas - cozinha - área de serv.\nlazer comum: -...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 6.600.000",
+        "area": "400m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "Uma localizacao exclusiva, muito desejada e valorizada em moema, num terreno de 1.600 m² numa privilegiada esquina, proxima ao parque do ibirapuera,...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 3.800.000",
+        "area": "400m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "área útil:400 m2\n3 vagas + 1 locada permanente do condomínio.\n3 suítes com ar condicionado split, \npiscina, \nlareira, \nchurrasqueira, \nsauna...",
+        "atualizacao": "01-02-2014"
+      },
+      {
+        "preco": "R$ 720.000",
+        "area": "87m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Imovel em otimo estado, original, com vaga fixa, salao de festas, proximo a escolas, restaurantes, shopping ibirapuera e comercio em geral.",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.945.000",
+        "area": "200m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "5",
+        "descricao": "Impecável, área nobre de moema, totalmente fora de rota, muito ensolarado, amplo living para 2 ambientes + sala de jantar, escritório, sala de...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 1.400.000",
+        "area": "170m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "Excelente apartamento moema com lazer completo2014-03-18 17:22:28",
+        "atualizacao": "24-03-2014"
+      },
+      {
+        "preco": "R$ 4.000.000",
+        "area": "420m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "ótimo apartamento com piso de cerâmica no piso superior, taco de madeira nas áreas íntimas e piso de porcelanato na cozinha. armários planejados...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.020.000",
+        "area": "178m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "6",
+        "descricao": "Apto reformado, otima localização, 03 belas suites com armários, living para 03 ambientes e terraço, 02 vagas na garagem, predio com linda area de",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 3.200.000",
+        "area": "257m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Edificio moderno e suntuoso, com lazer completo e lindo jardim. repleto de armarios. suite master com banheira, close sr. e sra. marmore nas areas...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 4.200.000",
+        "area": "474m²",
+        "dormitorios": "6",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Lazer, piscina, churrasqueira, guarita blindada. altissimo padrão. excelente localização.",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.250.000",
+        "area": "120m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "120m²au sendo 3dorms com 1 ste e 1vg. living para dois ambientes com varanda e lavabo. piso todo em taco de madeira . infra estrutura para ar...",
+        "atualizacao": "22-03-2014"
+      },
+      {
+        "preco": "R$ 1.700.000",
+        "area": "129m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.910.000",
+        "area": "212m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "- ref.: 69-42377",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 2.200.000",
+        "area": "211m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "Belo apartamento, um por andar. ao lado do parque do ibirapuera. varanda com churrasqueira e piscina.piso de madeira nas áreas social e íntima....",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.600.000",
+        "area": "170m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Ampla sala para tres ambientes, sendo um deles sala de jantar.copa , cozinha planejada e lavanderia grande com dependencia de empregada. quatro...",
+        "atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 550.000",
+        "area": "62m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "2",
+        "descricao": "Apto em andar alto, 2 dorm, wc social e de serviço, 1 vaga. agende uma visita.",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.800.000",
+        "area": "181m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "Excelente localização em moema, pronto para morar próximo a avenida ibirapuera. empreendimento com lazer completo, imóvel bem iluminado, com...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 990.000",
+        "area": "100m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "O apartamento de 100m2, reformado, com dois dormitorios, sendo uma suíte, banheiros ampliados, sala com dois ambientes, parede espelhada, cozinha e...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.300.000",
+        "area": "240m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Proximo do shopping ibirapuera, futura estacao do metro, linda cobertura duplex, lazer completo, com piscina, sauna, sala de ginastica, playground,",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.850.000",
+        "area": "187m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "-",
+        "descricao": "Apartamento novo, com planta bem aproveitada, no contrapiso, amplo terraço gourmet integrado com a cozinha e com o living, muito iluminado, área de...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.800.000",
+        "area": "192m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "3",
+        "descricao": "Lindo apartamento, todas dependências muito amplas, vista excelente, todos armários, visite.",
+        "atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 1.500.000",
+        "area": "150m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Lindo apartamento com 4 dormitórios sendo uma suíte e um escritório, lavabo, terraços, lareira, living pra 3 ambientes, condomínio com segurança...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 9.000.000",
+        "area": "466m²",
+        "dormitorios": "4",
+        "vagas": "7",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Excelente cobertura duplex, suites com piso em madeira sendo a master com closet e banho com jacuzzi, hall de entrada com piso em marmore, living para...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.800.000",
+        "area": "180m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "Lindo apartamento com sala de jantar ....\npredio com recuo , jardins, 2 vagas, sl festas, play, piscina, ótimo local .",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 1.600.000",
+        "area": "216m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "Living, 3 ambientes, sala de jantar, lavado, varanda, escritorio, sala de estar, 4 suites, closet, banheiro social, sala intima, sala de almoço,...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 14.980.000",
+        "area": "469m²",
+        "dormitorios": "4",
+        "vagas": "6",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Regiao privilegiada, vizinho ao parque do ibirapuera, o mais alto empreendimento residencial da america latina, com 37 andares. lazer completo, com...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.670.000",
+        "area": "226m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "3",
+        "descricao": "- reformado, moderno e clean. entrar e morar.living amplo c/ terraço, ótima distribuição, prédio com lazer. a poucos metros do parque...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 3.900.000",
+        "area": "264m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "1",
+        "descricao": "Cobertura triplex localizada em moema com 04 dormitórios (03 suites) distribuidos em 264m² de área útil, sala para 04 ambientes com um magnifico...",
+        "atualizacao": "23-03-2014"
+      },
+      {
+        "preco": "R$ 1.800.000",
+        "area": "168m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "Espaçoso,ensolarado, no melhor local de moema ao lado do parque ibirapuera, com fácil acesso a comércio e transporte. repleto de armários,...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.450.000",
+        "area": "103m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "4",
+        "descricao": "Um dos condomínios club mais desejados de moema. apartamento de andar alto, todo reformado. muita segurança e lazer para você e seus filhos. vagas...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.070.000",
+        "area": "115m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Apartamento original com 4 dorms, 1 ste e 2vgs. possibilidade de ampliação do living e varanda com o 4º dormitório, ficando com uma vista frontal...",
+        "atualizacao": "22-03-2014"
+      },
+      {
+        "preco": "R$ 1.400.000",
+        "area": "151m²",
+        "dormitorios": "1",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Cobertura com amplo terraço com vista. living ampliado para 2 ambientes.1 suite (planta original 2 dormitórios) com hidro e armários.piso superior:...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 900.000",
+        "area": "97m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "4",
+        "descricao": "Apartamento com lavabo, 3 dormitórios, 1 suite, varanda, despensa, prédio com gerador, sala de ginástica, playground e salão de festas. visite",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 699.500",
+        "area": "58m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Diferenciais: o grande destaque além da localização são as 2 vagas para esta metragem.apartamento com ótima localização em moema pássaros,...",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 14.000.000",
+        "area": "647m²",
+        "dormitorios": "4",
+        "vagas": "6",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "Apartamento pronto para morar, de alto padrao, com a vista mais nobre da regiao. junto ao parque ibirapuera, de arquitetura inovadora e imponente....",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 11.000.000",
+        "area": "437m²",
+        "dormitorios": "4",
+        "vagas": "6",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Espetacular cobertura totalmente reformada. canjiquinha em marmore italiano no hall do elevador e entrada social. portas de entrada, lavabo e cozinha...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 5.200.000",
+        "area": "306m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Moema é considerada uma região sofisticada, que concentra grande parte dos empreendimentos de alto padrão da cidade. sophis tem exclusividade em...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 692.000",
+        "area": "84m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Apartamento reformado por arquiteto, localizado proximo ao parque do ibirapuera, restaurantes, bares, shoppings e hospitais. esta em bom estado, 3...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 7.500.000",
+        "area": "355m²",
+        "dormitorios": "6",
+        "vagas": "",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "1 apartamento por andar com 355 m² de a p. living para 2 ambientes integrado ao terraço, sala de jantar, sala de almoço, prataria, dispensa,...",
+        "atualizacao": "30-01-2014"
+      },
+      {
+        "preco": "R$ 12.000.000",
+        "area": "425m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Mais alto empreendimento residencial de sao paulo, com duas piscinas aquecidas, academia completa, binquedoteca, salao de festas entre outros espacos...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 615.000",
+        "area": "60m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Apartamento reformado - próximo a futura estação do metrô!\ncód.: qi1017360xra \nplanta com suíte;\nsala para 2 ambientes com...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 6.500.000",
+        "area": "520m²",
+        "dormitorios": "5",
+        "vagas": "5",
+        "suites": "3",
+        "banheiros": "8",
+        "descricao": "Maravilhosa cobertura com amplos ambientes e impecavel acabamento. home theater, piano, terraco com piscina e vista privilegiada para o parque",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.800.000",
+        "area": "247m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "área priv. de 247m2 com 4 suítes, salas amplas e integradas, varanda, lavabo, dep. empregada e 4 vagas demarcadas. o apto está pronto para morar,...",
+        "atualizacao": "09-10-2013"
+      },
+      {
+        "preco": "R$ 880.000",
+        "area": "90m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Excelente apartamento em moema fora de rota, ensolarado o dia todo, planta quadrada, repleto de armários, andar intermediário, próximo ao parque do...",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 900.000",
+        "area": "90m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "4",
+        "descricao": "Todo reformado, andar alto, armários de qualidade, 3 dorm + home office, excelente localização. agende uma visita.",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 11.000.000",
+        "area": "635m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "3",
+        "banheiros": "6",
+        "descricao": "Apartamento maison com metragem diferenciada dos apartamentos padroes do edificio, um projeto sofisticado e surpreendente. proximo ao parque",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.000.000",
+        "area": "205m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Excelente localizacao, um apartamento por andar bem dividido, salas para dois ambientes com terraco, living com lareira, sala de almoco, cozinha...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.200.000",
+        "area": "116m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Apto com espaço, modernizado ,região tranquila de moema2014-03-31 21:57:38",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 14.000.000",
+        "area": "468m²",
+        "dormitorios": "5",
+        "vagas": "6",
+        "suites": "5",
+        "banheiros": "6",
+        "descricao": "Exuberante apartamento com requinte nos detalhes, living em marmore com lareira automatica, home theater, office, salas de almoco e jantar, 5 belas...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.490.000",
+        "area": "124m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Lindo apartamento próximo ao ibirapuera com sacada envidraçada, suíte com varanda e closet, armários planejados, cozinha planejada, depósito...",
+        "atualizacao": "24-03-2014"
+      },
+      {
+        "preco": "R$ 7.500.000",
+        "area": "600m²",
+        "dormitorios": "4",
+        "vagas": "8",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Linda cobertura triplex com quatro suites, rico em armarios, cozinha kitchen, acabamento de primeira. proximo a restaurantes e supermercados. fora de...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 720.000",
+        "area": "60m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Próximo ao parque e a futura estação de metrô, andar alto, suíte com terraço, armários, living com varanda, cozinha planejada americana,...",
+        "atualizacao": "04-02-2014"
+      },
+      {
+        "preco": "R$ 2.980.000",
+        "area": "209m²",
+        "dormitorios": "3",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "- 3 suítes - 4 vagas - depósito - sala íntima - varanda - living 1 ambiente - lavabo - sala jantar - sala almoço - sacada - cozinha - copa -...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 650.000",
+        "area": "70m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "-",
+        "descricao": "Distrib-he-living-p2 ambs - varanda - s_estar-2 dorms -aemb-1 bsocial-copa_coz-aserv-qemp-wc2014-03-31 22:58:58",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.660.000",
+        "area": "230m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "Amplo apartamento de alto padrão em moema, com mármore em várias dependências, 3 salas, 3 suítes, closet, copa, cozinha, área de serviço,...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.190.000",
+        "area": "125m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "ótimo apartamento com sala espaçosa, varanda, 3 dormitórios, 1 suíte, 2 vagas. em rua arborizada e excelente localização. o bairro de moema aos...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.650.000",
+        "area": "226m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "-",
+        "descricao": "Excelente apto ao lado parque ibirapuera, living amplo, terraço, lavabo, sala almoço, sl.jantar, cozinha kitchens quartos repletos de armários de...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 745.000",
+        "area": "85m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Na alameda jauaperi/ moema pássaros em excelente edifício com lazer apto moderno e amplo com 85 m2 úteis distribuídos entre 2 dormitórios...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 780.000",
+        "area": "71m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "71 m2, 2dorm, 1 suíte, 1 vaga. mobiliado2014-03-31 21:26:42",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.100.000",
+        "area": "300m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "-",
+        "descricao": "Apartamento com alto padrão, lindo, vista maravilhosa, com 4 dormitorio, 2 suíte...\n*aproveite*.",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 1.320.000",
+        "area": "165m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "- ref.: 69-68360",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.650.000",
+        "area": "180m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "6",
+        "descricao": "Amplo apartamento, sala de jantar, copa, lavanderia espaçosa, dependência de empregada, prédio bem cuidado, fora de rota, 4 dormitórios com 3...",
+        "atualizacao": "04-02-2014"
+      },
+      {
+        "preco": "R$ 2.200.000",
+        "area": "215m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "Amplo imovel com otima iluminacao e ventilacao, fora de rota, mobiliado e repleto de armarios embutidos. todos os ambientes estao preparados para...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.050.000",
+        "area": "173m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Details moema apartamento novíssimo em moema passaros,3 suites, 3 vagas, churrasqueira na varanda, no contra-piso, lazer completo com quadra de...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.470.000",
+        "area": "300m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "Lindíssimo apartamento, fora de rota, vale muito a pena conhecer!ligue e agende a sua visita! - ref.: cb8026",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 8.700.000",
+        "area": "579m²",
+        "dormitorios": "5",
+        "vagas": "8",
+        "suites": "5",
+        "banheiros": "6",
+        "descricao": "Cobertura triplex com 5 suites, closet. o piso superior tem 2 livings, sala de jantar, cinema, cozinha, copa e area de servico. o living e em marmore...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.100.000",
+        "area": "217m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "-",
+        "descricao": "Excelente oportunidade! magnificio apartamento com amplo living e terraço para varios ambientes. andar alto com vista panoramica para o verde. planta...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.050.000",
+        "area": "93m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Sala dois ambientes varanda envidraçada. dormitório de empregada aberto e transformado em closet. posicionado de fundos. condomínio com...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.390.000",
+        "area": "147m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "2014-03-31 22:56:56",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.900.000",
+        "area": "226m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Cobertura duplex, alto padrão, moema pássaros.\nandar inferior: sala,cozinha, copa, área de serviço, lavabo, 3 dormitórios, 1 banheiro,...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 550.000",
+        "area": "45m²",
+        "dormitorios": "1",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "descricao": "ótimo apartamento de 1 dormitório, sala 2 ambientes com simpática sacada, banheiro com ventilação natural, cozinha e área de serviço. ...",
+        "atualizacao": "23-03-2014"
+      },
+      {
+        "preco": "R$ 1.596.000",
+        "area": "120m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "Lindo! decorado com extremo bom gosto e fino acabamento, pronto para morar. local privilegiado, fora da rota ,rua tranquila mas com fácil acesso a...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.600.000",
+        "area": "224m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "Apartamento com 224 m² em moema \ncaracterísticas do apartamento:\n- 4 dormitórios\n- 3 suítes\n- 4 vagas\n- living p/ 3 ambiente\n- área de...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 4.000.000",
+        "area": "245m²",
+        "dormitorios": "3",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Lindo apartamento alto padrao. empreendimento nobre com infraestrutura completa de lazer e seguranca. andar alto, excelente iluminacao natural e boa...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.550.000",
+        "area": "124m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Lindo apartamento, novo, próximo ao parque com 3 dormitórios sendo 2 suítes e living ampliado. closet, escritório, com 2 vagas e depósito....",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 680.000",
+        "area": "62m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Lindo apto, todo reformado em área nobre de moema. venha conferir! - ref.: mi19537",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 910.000",
+        "area": "77m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Excelente localização em moema,próxima do parque,perto de tudo, lazer completo.....agende sua visita.:5561-43212014-04-01 22:07:09",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 4.341.000",
+        "area": "288m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Novo - melhor lançamento de moema em condominio de luxo - 4 suites com closed - living com varanda integrada - home theater -sistema de biometria e...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 920.000",
+        "area": "71m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Lazer completissimo, um clube no melhor bairro de são paulo",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 6.800.000",
+        "area": "340m²",
+        "dormitorios": "4",
+        "vagas": "6",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Excelente apartamento na melhor localizacao de moema. dormitorios amplos, com varanda, vista espetacular. proximo a republica do libano. predio com",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 3.000.000",
+        "area": "300m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Excelente cobertura, 01 por andar, predio com apenas 08 moradores, ampla e em otimo local de moema, fora da rota de aviões.\ncaracterísticas:...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 6.000.000",
+        "area": "400m²",
+        "dormitorios": "4",
+        "vagas": "6",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Apartamento com finissimo acabamento em rua tranquila de moema, proximo a comercios, escolas e shopping. armarios embutidos, cozinha planejada com...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 4.500.000",
+        "area": "335m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "2",
+        "descricao": "Apartamento recém entregue em moema nobre. fora de rota, planta para famílias grandes ou pessoas que queiram morar com muito conforto. terraço...",
+        "atualizacao": "06-03-2014"
+      },
+      {
+        "preco": "R$ 850.000",
+        "area": "90m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Situado em uma rua arborizada, esse apartamento de 90 m2 conta com dois dormitórios, sendo uma suíte e uma vaga de garagem. excelente planta e...",
+        "atualizacao": "22-03-2014"
+      },
+      {
+        "preco": "R$ 730.000",
+        "area": "95m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "2",
+        "descricao": "Apartamento reformado e mobiliado, pronto para morar, com excelente iluminação natural, em ótima localização, próximo a comércio diversificado,...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 6.500.000",
+        "area": "540m²",
+        "dormitorios": "4",
+        "vagas": "6",
+        "suites": "4",
+        "banheiros": "8",
+        "descricao": "Excelente cobertura duplex, reformada, com vista 360° permanente para o parque do ibirapuera. pronta para morar, armarios de alto padrao nos",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.500.000",
+        "area": "210m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "6",
+        "descricao": "Otimo imovel, ensolarado e com excelente distribuicao. amplo living para varios ambientes integrado com terraco, piso em madeira, repleto de armarios.",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 3.400.000",
+        "area": "214m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "2",
+        "banheiros": "5",
+        "descricao": "Moema índios, fora de rota, toda decoração novíssima fino acabamento, lazer completo, conforto e particularidade, 1 por andar, próximo comércio...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 5.152.866",
+        "area": "288m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Melhor condominio de luxo - novo - 4 suites com closed - living com varanda integrada - home theater -sistema de biometria e areas frias com piso...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 6.500.000",
+        "area": "310m²",
+        "dormitorios": "3",
+        "vagas": "5",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Empreendimento na melhor localizacao de moema passaros. apartamento com acabamento de 1ª, em marmore e granito, automacao completa de som luzes e ar",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.070.000",
+        "area": "151m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Excelente localização, próximo ao parque do ibirapuera. apartamento com 151m², 3 quartos, 2 suítes e 1 vaga de garagem. planta ótima com living...",
+        "atualizacao": "23-03-2014"
+      },
+      {
+        "preco": "R$ 650.000",
+        "area": "60m²",
+        "dormitorios": "2",
+        "vagas": "",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Lindo e gracioso apartamento com 02 dormitórios sendo 01 suíte com armários , sala para 02 ambientes com varanda , cozinha com armários planejados...",
+        "atualizacao": "22-03-2014"
+      },
+      {
+        "preco": "R$ 549.000",
+        "area": "65m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "2",
+        "descricao": "",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 895.000",
+        "area": "109m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Otimo imovel, claro e ensolarado, bem cuidado, rico em armarios, com 3 dormitorios sendo 1 suite, living com salas de estar e jantar. proximo ao...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 880.000",
+        "area": "152m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "-",
+        "banheiros": "2",
+        "descricao": "No coração de moema, este apartamento pronto para morar, te tras acesso ao shooping ibirapuera, acesso aos melhores restaurantes. enfim tudo dentro",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 645.000",
+        "area": "65m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Apartamento de 60m² de área útil, 2 dormitórios sendo 1 suíte, sala com varanda fechada em vidros, cozinha planejada, dormitórios com janela...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 1.030.000",
+        "area": "56m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Lindo apto com 2 dormitórios, 1 suite, 2 vagas, edificio novo, fora de rota, nunca habitado, porém possui armários, varanda gourmet, aquecimento a...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 910.000",
+        "area": "100m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Excelente localização , moema 3 dormitórios 1 suite , próximo a comercio2014-03-18 17:22:38",
+        "atualizacao": "24-03-2014"
+      },
+      {
+        "preco": "R$ 5.000.000",
+        "area": "628m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Apartamento amplo, acabamento em marmore, suites com armarios e varanda sendo a master com closet e sala intima, living para varios ambientes, bar,...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 650.000",
+        "area": "60m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "2 dorm sendo 1 suíte, sala com varanda fechada em vidro, cozinha planejada, dormitórios com janela anti-ruído, wc social, área de serviço, 1 vaga...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 5.700.000",
+        "area": "400m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "-",
+        "descricao": "",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.000.000",
+        "area": "165m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "Apartamento com requinte e bom gosto...\nbem localizado, edifício seguro e com lazer completo.",
+        "atualizacao": "21-03-2014"
+      },
+      {
+        "preco": "R$ 1.100.000",
+        "area": "156m²",
+        "dormitorios": "3",
+        "vagas": "-",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Amplos ambientes, pé direito alto, vista privilegiada e sem prédios na frente. três dormitórios sendo uma suíte todas com armários embutidos....",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.190.000",
+        "area": "85m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Excelente apartamento em região nobre, próximo ao parque do ibirapuera, com 3 dormi., 1 vaga, 85m² , lazer total e acesso á grandes avenidas,(...",
+        "atualizacao": "11-02-2014"
+      },
+      {
+        "preco": "R$ 4.000.000",
+        "area": "402m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Excelente cobertura, alto padrao, living para tres ambientes, quatro dormitorios, sendo tres suites, banheiro social, predio com recuo, com lazer...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.000.000",
+        "area": "230m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "2014-03-31 22:56:54",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.800.000",
+        "area": "260m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "- planta quadradinha!! - 4 dorms. (3 suítes) - 4 vagas - depósito - sala íntima - lareira - lavabo - sala jantar - sala almoço - 3 sacadas -...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 4.790.000",
+        "area": "280m²",
+        "dormitorios": "3",
+        "vagas": "4",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Cobertura com finissimo acabamento, pe direito alto, escadas em vidro temperado, cameras de seguranca. \npp vende com todos os moveis e...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 650.000",
+        "area": "70m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "2",
+        "banheiros": "3",
+        "descricao": "Excelente localização em m0ema- proximo ao shopping ibirapuera infraestrutura completa. apto. com 70m², 02 dorm/1 suite/1 vaga. decoração...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.270.000",
+        "area": "115m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Excelente localização com 4 dormitórios amplos. arejado e claro. um apartamento que oferece conforto. o sol pela manhã e a tarde. delícia para...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.800.000",
+        "area": "220m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "6",
+        "descricao": "Apartamento moderno em moema índios. prédio familiar e muito novo. lazer completo com piscina com raia de 20 metros. amplo living , sala de almoço,...",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 1.400.000",
+        "area": "220m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Lindo apartamento 275 m2, ótima localização duas quadras futuro metrô est. moema e shopping ibir. c/\nliving em dois ambientes, 4 dorm&#039;s...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.000.000",
+        "area": "187m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "Apartamento com 187 m² em moema\n(nunca habitado) \ncaracterísticas do apartamento:\n- 3 dormitórios\n- 3 suítes\n- 3 vagas\n- living p/ 3 ambiente\n-...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 1.180.000",
+        "area": "110m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Oportunidade!!! - ref.: mi19922",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 780.000",
+        "area": "72m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "ótimo imóvel, \"tecnisa\" 72m² área útil, 2 dormitórios, sendo 1 suíte, 2 vaga de garagem demarcada. decorado, cozinha completa, closet, sacada....",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 720.000",
+        "area": "87m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Imovel em otimo estado, 3º dormitorio aberto para a sala podendo ser revertido, cozinha reformada, banheiros originais, dormitorio de empregada virou...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 2.400.000",
+        "area": "275m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "-",
+        "descricao": "Excelente apto amplos e ensolarados ambientes, sala de jantar, cozinha planejada, quartos suites com armários, lazer completissimo. muita segurança...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 3.800.000",
+        "area": "400m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Linda cobertura duplex totalmente reformada. living para varios ambientes, home theater, escritorio, sala de lareira, sala de jantar. cozinha...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 640.000",
+        "area": "70m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Moema - ao lado da futura estação de metrô , junto ao parque - venda rápida - prédio semi novo - 2 dormitórios - living para 2 ambientes-...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 2.230.000",
+        "area": "230m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "4 dormitórios, sendo 3 suítes e 4 vagas, 2 salas amplas, varanda, cozinha planejada, repleto de armários, lavanderia, dependência de",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 5.300.000",
+        "area": "380m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "-",
+        "descricao": "Predio novo em excelente localização, living amplo com terraço, lavabo, 4 suites, fantástica área de lazer, segurança 24 horas.2014-03-31",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 495.000",
+        "area": "40m²",
+        "dormitorios": "1",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "-",
+        "descricao": ".. - ref.: mi18250",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 720.000",
+        "area": "72m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "2 dorm, sendo 1 suite master, varanda, cozinha americana, 1 vaga e lazer completo.",
+        "atualizacao": "19-03-2014"
+      },
+      {
+        "preco": "R$ 9.150.000",
+        "area": "574m²",
+        "dormitorios": "4",
+        "vagas": "6",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "ótimo apartamento com piscina e churrasqueira, contrapiso no apartamento todo, na suíte principal, banheiro sr e sra. ótima vista do parque...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.650.000",
+        "area": "220m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "2",
+        "banheiros": "1",
+        "descricao": "Espaçoso, localização nobre, , prédio recuado, fora de rota, 4 dorms, 2 suites,4 vagas, terraço, lavabo, cozinha planejada, condomínio com...",
+        "atualizacao": "18-02-2014"
+      },
+      {
+        "preco": "R$ 2.130.000",
+        "area": "220m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Excelente apto na região de moema índios - totalmente fora de rotaliving p/ 3 ambientes c/ terraço, lareira, sala de estar, tv, jantar e uma sala...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 5.000.000",
+        "area": "335m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "Altíssimo padrão, em localização privilegiada, muito amplo e com excelente distribuição. empreendimento estilo moderno com terraço...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 760.000",
+        "area": "80m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Otima localizacao, rua tranquila, fora da rota de avioes, apartamento face norte bem arejado, comodos amplos.\narea total (130.00m2), area util (...",
+        "atualizacao": "19-11-2013"
+      },
+      {
+        "preco": "R$ 725.000",
+        "area": "65m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Ok - ref.: mi19720",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 510.000",
+        "area": "52m²",
+        "dormitorios": "1",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "-",
+        "descricao": "Apartamento com 1 dormitório, lazer e 1 vaga de garagem. ótima localização, ao lado da avenida ibirapuera, confira!!!.",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 2.000.000",
+        "area": "185m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Moema pássaros. lindo apartamento nunca habitado, um por andar. varanda gourmet integrada ao living e a cozinha, home theater, suíte master com...",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 1.430.000",
+        "area": "120m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Apartamento lindo e aconchegante. oportunidade para quem quer conforto e boa localização.\nedfício antigo, porém bem procurado na região, devido...",
+        "atualizacao": "21-03-2014"
+      },
+      {
+        "preco": "R$ 1.700.000",
+        "area": "240m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 3.300.000",
+        "area": "304m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "linda cobertura em moema, nova,ensolarada ,piscina,excelente localizacao, fora da rota, proxima de farmacias, shopping, restaurantes. empreendimento...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.000.000",
+        "area": "105m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Apartamento lindo, charmoso e elegante. localizado em moema, entre as avenidas ibirapuera, santo amaro e bandeirantes. condomínio com torre única,...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.300.000",
+        "area": "125m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "5",
+        "descricao": "Oportunidade! excelente apartamento, pronto para morar! andar alto, inteiramente planejado e com excelente vista. sala espaçosa para 2 ambientes,...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.050.000",
+        "area": "93m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Excelente apartamento bem localizado no coração do bairro de moema com 93m, próximo ao shopping ibirapuera, a uma quadra da futura linha do metr e...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 5.400.000",
+        "area": "454m²",
+        "dormitorios": "3",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Belissima cobertura duplex, luxuosa e com linda vista para o parque ibirapuera, living com pe-direito duplo, sala intima, escritorio, suite master com...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 7.600.000",
+        "area": "368m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "ícone em moema, unindo sofisticação, conforto e segurança. fino acabamento, contando com 4 suítes, com banheiro senhor e senhora, sendo este com...",
+        "atualizacao": "27-03-2014"
+      },
+      {
+        "preco": "R$ 2.650.000",
+        "area": "226m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "1",
+        "descricao": "Localização privilegiada, próximo ao parque do ibirapuera. amplo, claro e ensolarado apartamento com 226 mts,4 amplos dormitórios repletos de...",
+        "atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 9.600.000",
+        "area": "468m²",
+        "dormitorios": "5",
+        "vagas": "6",
+        "suites": "5",
+        "banheiros": "7",
+        "descricao": "Maravilhoso prédio em frente ao parque ibirapuera, localização ímpar , amplos ambientes, terraço agradável com vista muito particular para área...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.230.000",
+        "area": "205m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "1",
+        "descricao": "Amplo apartamento, um por andar, bem conservado, o melhor preço por m2 da região, 205 m2 util, 4 dormitórios, 3 suites, 3 vagas.",
+        "atualizacao": "23-03-2014"
+      },
+      {
+        "preco": "R$ 890.000",
+        "area": "72m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Apartamento todo reformado com duas vagas, oportunidade única em moema, lazer completo.",
+        "atualizacao": "29-01-2014"
+      },
+      {
+        "preco": "R$ 1.600.000",
+        "area": "180m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "4",
+        "descricao": "Planta otima com ampla sala para dois ambientes, com sacada. quatro dormitórios sendo uma suite, com armários. cozinha planejada com muitos...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 790.000",
+        "area": "70m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Apartamento moema com: 70.00 m² de área útil, 2 dormitórios ( sendo 1 suíte ), terraço, wc empregados, sala de tv, sala de jantar, sala de...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 2.130.000",
+        "area": "166m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "5",
+        "descricao": "Belíssimo apartamento em fantástico condomínio clube em moema.03 dormitórios com piso de madeira,sendo 2 suítes, amplo living com piso de...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 13.900.000",
+        "area": "610m²",
+        "dormitorios": "4",
+        "vagas": "7",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "Cobertura impar e deslumbrante. altissimo padrao localizada em uma das regioes mais requisitadas da cidade, proxima ao parque do ibirapuera....",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.750.000",
+        "area": "140m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "1",
+        "descricao": "4 dormitórios, 2 suítes, 3 vagas, andar alto, ótimo estado, lazer completo.",
+        "atualizacao": "03-04-2014"
+      },
+      {
+        "preco": "R$ 3.650.000",
+        "area": "400m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "3",
+        "descricao": "Sofisticada cobertura com fina decoracao, terraco com piscina, churrasqueira, paisagismo, sauna, vista total. espacoso living, sala de tv, cozinha...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.100.000",
+        "area": "153m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "2",
+        "banheiros": "-",
+        "descricao": "Excepcional oportunidade para morar em moema, próximo ao parque ibirapuera!! edifício reconhecido pela sua arquitetura e estilo com uma planta de...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 3.850.000",
+        "area": "250m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "5",
+        "descricao": "Excelnete unidade2014-03-31 21:26:19",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 295.000",
+        "area": "37m²",
+        "dormitorios": "1",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Flat de 37 mts em moema 6º andar com móveis local r. rouxinol valor r$ 295.000,00 aceita contra proposta paea mais informações walter passeranii.",
+        "atualizacao": "02-03-2014"
+      },
+      {
+        "preco": "R$ 1.900.000",
+        "area": "187m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Moema pássaros, com 4drs, 2stes, 3vgs, varanda gourmet, dep. de empregada, lazer, aceita-se imóvel como parte de pgto ate 600mil.",
+        "atualizacao": "18-03-2014"
+      },
+      {
+        "preco": "R$ 1.900.000",
+        "area": "205m²",
+        "dormitorios": "3",
+        "vagas": "5",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "Amplo apartamento localizado em moema índios. amplo living com terraço, escritório, suíte master com closet, rico em armários.2014-04-01",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 900.000",
+        "area": "90m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "2014-04-01 21:00:39",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.620.000",
+        "area": "180m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "ótimo investimento, apartamento reformado, em moema pássaros, dois aptos. por andar, ótima localização perto do comércio local. prédio muito...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 1.500.000",
+        "area": "127m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Condomínio clube, sensacional, fora de rota,lazer completo, frente, 3 suítes, 3 vagas, piscina aquecida, varanda envidraçada, segurança 24hs,",
+        "atualizacao": "27-03-2014"
+      },
+      {
+        "preco": "R$ 1.920.000",
+        "area": "180m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "5",
+        "descricao": "Lindo apto, muito bem decorado,material de primeira qualidade,armarios planejados, escritório, varanda, lareira, piso de madeira, andar alto, prédio...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 4.950.000",
+        "area": "336m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Apto maravilhoso, com terraço goumet, predio novo, ao lado do parque - ref.: ll4551",
+        "atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 1.200.000",
+        "area": "150m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Apartamento decorado, amplo, iluminado, próximo ao shopping ibirapuera. completo mobiliado ideal para executivo que procura um local com total",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 5.300.000",
+        "area": "426m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Localização privilegiada em moema, ao lado da hélio pellegrino. apartamento novo em prédio com ótima estrutura de lazer. possui living amplo...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.850.000",
+        "area": "284m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "-",
+        "descricao": "",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 2.400.000",
+        "area": "275m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Oportunidade! apartamento com 275 m², distribuídos em 4 dormitórios, sendo 4 suítes, grande living de 70 m², hall de distribuíção, family...",
+        "atualizacao": "23-03-2014"
+      },
+      {
+        "preco": "R$ 1.380.000",
+        "area": "303m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Abaixo avaliação, excelente localização, fora de rota, vago, com vista panorâmica.",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 4.000.000",
+        "area": "456m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Cobertura duplex com living integrado a sala de jantar, suite com closet, escritorio, living com lareira, sala de tv, terraco com piscina, espaco...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 5.990.000",
+        "area": "306m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "6",
+        "descricao": "Apartamento novo com living integrado a espaco terraco gourmet, 306m² uteis. localizacao valorizada, proximo ao parque do ibirapuera. area de lazer",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 4.000.000",
+        "area": "286m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "Cobertura duplex -linda -moema-alto padrão- prox futura estação do metro. totalmente reformada - 290 mts ensolarada e clara. 1 piso- amplo living...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 5.800.000",
+        "area": "620m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Otimo apartamento, em localizacao nobre, planta bem distribuida, aquecimento central. precisa de pequena reforma nas partes frias. construtora",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 645.000",
+        "area": "65m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "2014-04-01 21:02:58",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 965.000",
+        "area": "68m²",
+        "dormitorios": "1",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Duplex mobiliado, decorado por arquiteto, andar alto com vista panorâmica para o parque do ibirapuera e próximo a linha lilás do metro. lazer...",
+        "atualizacao": "02-04-2014"
+      },
+      {
+        "preco": "R$ 640.000",
+        "area": "77m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "descricao": "Piso de madeira nas áreas íntima e social e azulejos nas áreas frias. móveis embutidos nos quartos e cozinha. bem iluminado e arejado.apartamento...",
+        "atualizacao": ""
+      },
+      {
+        "preco": "R$ 5.600.000",
+        "area": "628m²",
+        "dormitorios": "4",
+        "vagas": "5",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Edificio icone e imponente, em localizacao nobre, com excelente seguranca. apartamento privilegiado, com fino acabamento e amplos ambientes. vista...",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.150.000",
+        "area": "122m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Vista maravilhosa, vale a pena visitar, ao lado do parque ibirapuera.",
+        "atualizacao": "21-02-2014"
+      },
+      {
+        "preco": "R$ 2.660.000",
+        "area": "223m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Maravilhoso apartamento na regiao nobre de moema. fora de rota. andar alto com otima vista. amplo living para varios ambientes, terraco e lareira.",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 1.490.000",
+        "area": "124m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Destaque: predio com recuo, jardins, 2 vagas com depósito, play, sl de jogos, sl de festas, piscina, quadra, otimo local....2014-03-31",
+        "atualizacao": "01-04-2014"
+      },
+      {
+        "preco": "R$ 4.470.000",
+        "area": "245m²",
+        "dormitorios": "3",
+        "vagas": "4",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Destaques : predio com recuo, jardins, alto padrao, play, sl de festas, piscina, lazer completo, otimo local .............2014-03-31 21:22:45",
+        "atualizacao": "02-04-2014"
+      }
+    ]
+  }
+}

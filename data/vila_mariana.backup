@@ -1,0 +1,414 @@
+{
+  "name": "imoveis_vila_mariana",
+  "count": 40,
+  "frequency": "daily",
+  "version": 9,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Fri Mar 28 2014 21:09:07 GMT+0000 (UTC)",
+  "nextrun": "Sat Mar 29 2014 21:09:07 GMT+0000 (UTC)",
+  "results": {
+    "collection1": [
+      {
+        "preco": "R$ 2.800.000",
+        "area": "250m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "7",
+        "descricao": "Ap. novo com excelente infra estrutura totalmente personalizado, foram as seguintes: -projeto interno da arquitetas thais venturelli -kit ar...",
+        "data_atualizacao": "25-03-2014"
+      },
+      {
+        "preco": "R$ 5.850.000",
+        "area": "433m²",
+        "dormitorios": "4",
+        "vagas": "6",
+        "suites": "4",
+        "banheiros": "5",
+        "descricao": "Se você tem uma família com filhos estudantes, esta é sua oportunidade de unir o útil ao agradável. excelente cobertura com ambiente gourmet e...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 800.000",
+        "area": "117m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Apartamento vila mariana\nexcelente apartamento com sala ampla para dois ambientes, 3 dormitórios sendo uma suíte, cozinha e lavanderias grandes e...",
+        "data_atualizacao": "05-11-2013"
+      },
+      {
+        "preco": "R$ 990.000",
+        "area": "110m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Apartamento com 3 dormitórios sendo 1 suíte, lareira, dep. de empregada, lazer e 2 vagas de garagem. ótima localização, próximo do parque do",
+        "data_atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 990.000",
+        "area": "158m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "",
+        "data_atualizacao": ""
+      },
+      {
+        "preco": "R$ 1.225.000",
+        "area": "128m²",
+        "dormitorios": "4",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "3",
+        "descricao": "Imovel em boa localizacao na vila mariana, 4 dormitorios, sendo 2 suites, terraco, cozinha, area de servico, dependencia de emprega e banheiro, 2...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 750.000",
+        "area": "106m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Apartamento próximo ao parque e ibirapuera e próximo do metro ana rosa (7 minutos), localização ótima, rua tranquila sem muita movimentação....",
+        "data_atualizacao": "31-10-2013"
+      },
+      {
+        "preco": "R$ 2.100.000",
+        "area": "151m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Esse apartamento foi feito exclusivamente para você que é amante do bom gosto e desfruta ótimos momentos com a família e os amigos. dispõe de...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 5.850.000",
+        "area": "433m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "-",
+        "descricao": "Edifício acácia\nbairro: vila mariana\ncidade: são paulo\npronto para morar\nficha técnica\n1 torre\n1 apartamento por andar\n4 dormitórios...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 2.500.000",
+        "area": "177m²",
+        "dormitorios": "4",
+        "vagas": "4",
+        "suites": "4",
+        "banheiros": "4",
+        "descricao": "Otimo apartamento com 4 suites, 4 vagas e deposito. terraco gourmet integrado a sala de almoco. rua tranquila e bem localizada. predio com lazer...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.300.000",
+        "area": "116m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "-",
+        "descricao": "ótima localização próximo ao metrô vila mariana e klabin. living 2 ambientes com terraço, lavabo, dependência de empregada. lazer completo. -",
+        "data_atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 2.100.000",
+        "area": "213m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "4",
+        "descricao": "Lindíssimo com varanda em l, todo ensolarado, vista deslumbrante, condomínio com total lazer, inclusive bosque, a 400metros do metrô vila mariana....",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 5.724.000",
+        "area": "474m²",
+        "dormitorios": "5",
+        "vagas": "5",
+        "suites": "5",
+        "banheiros": "-",
+        "descricao": "Terraço , lareira e lazer completo. - ref.: ja9884",
+        "data_atualizacao": "28-02-2014"
+      },
+      {
+        "preco": "R$ 750.000",
+        "area": "134m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "Próximo metrô ana rosa, 3 dorms, 1 st, banh. social, sala 2 ambts. cozinha, área de serviço, dep. empregada e 1 vaga garagem demarcada.\nconsulte",
+        "data_atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 810.000",
+        "area": "81m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Excelente apartamento com tudo novo. bem arejado. ambientes distribuídos de forma inteligente. para você que busca praticidade, versatilidade e...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.380.000",
+        "area": "141m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "3",
+        "banheiros": "5",
+        "descricao": "Apartamento com 3 suítes, todas com armários, 5 banheiros, sala para 3 ambientes com varanda gourmet integrada a cozinha, cozinha projetada,...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.380.000",
+        "area": "165m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "1",
+        "banheiros": "4",
+        "descricao": "Entre metrôs praça da árvore e santa cruz, com vasto comércio ao redor. piso superior contando com sala com piso frio, banheiro, escritório,...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 890.000",
+        "area": "115m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "ótimo apartamento. ambientes amplos e arejados. . armários planejados nos dormitórios. cozinha e área de serviço, integradas. entrada de serviço...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 500.000",
+        "area": "89m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "2",
+        "descricao": "Venha morar ao lado do metrô, a 100 metros da estação do metrô ana rosa,próxima a todos os tipos de comércio. imóvel com 89 m de área útil,...",
+        "data_atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 1.300.000",
+        "area": "132m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Varanda gourmet envidraçada, 4 dormitórios com sala ampliada, lavabo, despensa, escritório, ar condicionado, aquecimento solar, lazer",
+        "data_atualizacao": "11-02-2014"
+      },
+      {
+        "preco": "R$ 610.000",
+        "area": "89m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Living para 02 ambientes com janela e no contra piso, 03 dormitórios(todos no contra piso e sem armários), 1 suíte, wc suíte e wc social estão...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 950.000",
+        "area": "120m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Vila mariana nobre, com 3 dorms, suíte grande, 120m²au, perto metrô ana rosa.\nliving amplo ensolarado, finos armários na cozinha planejados,...",
+        "data_atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 1.272.000",
+        "area": "96m²",
+        "dormitorios": "2",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "3",
+        "descricao": "Apartamento em condominio clube, 2 dormitorios sendo 1 reversivel, terraco fechado com vidros, 2 vagas de garagem com deposito, banheiro social,...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 900.000",
+        "area": "100m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "2",
+        "banheiros": "3",
+        "descricao": "Apartamento muito bem localizado na vila mariana próximo ao sesc, espm, metrô ana rosa, com 100 m 2 de área útil, duas vagas de garagem. living...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.650.000",
+        "area": "141m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "2",
+        "banheiros": "2",
+        "descricao": "Duplex fantástico,na vila mariana,bem iluminado, 03 dormitórios, sendo 02 suites,03 vagas, lavabo, armários planejados nos dormitórios e cozinha ,...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.920.000",
+        "area": "194m²",
+        "dormitorios": "4",
+        "vagas": "3",
+        "suites": "3",
+        "banheiros": "4",
+        "descricao": "Apartamento ensolarado, moderno, espaçoso, ampla sala, dormitórios e banheiros com pisos de alta qualidade e com armários planejados na cozinha,...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 970.000",
+        "area": "148m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "3",
+        "descricao": "Apartamento amplo, com boa distribuicao em 148m² de area util, sendo 3 dormitorios, living para dois ambientes com varanda, 1 vaga de garagem....",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.420.000",
+        "area": "135m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Apartamento próximo ao metrô vila mariana com 135 m2 de área útil; 3 dormitórios, sendo uma suíte ampla com closet; 2 vagas fixas; varanda...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 565.000",
+        "area": "72m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "1",
+        "descricao": "Apartamento reformado, cozinha planejada, sanca de gesso, armários nos dormitórios e vaga fixa. pronto para morar.apartamento para venda - vila...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 625.000",
+        "area": "78m²",
+        "dormitorios": "2",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "-",
+        "descricao": "Próximo ao metrô vila mariana.\nhall de entrada - 2 dormtórios, terraço, living 3 x 6, banheiro, cozinha 2 x 3, área serviço, dep.empregada - 1...",
+        "data_atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 1.170.000",
+        "area": "129m²",
+        "dormitorios": "3",
+        "vagas": "3",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "2014-03-27 20:14:31",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.080.000",
+        "area": "108m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "3",
+        "banheiros": "3",
+        "descricao": "Muito lazer e ótima localização com lindo terraço gourmet.<br><br><br>o valor do imóvel pode ser alterado sem prévio aviso.",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.150.000",
+        "area": "140m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "-",
+        "banheiros": "-",
+        "descricao": "Cobertura duplex muito bem acabada e reformada.2014-03-27 23:09:30",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 700.000",
+        "area": "89m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "",
+        "data_atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 850.000",
+        "area": "108m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Apto.conservado, boa divisão interna, bastante ensolarado, necessitando de poucos reparos. localização excelente, quase esquina com rua tutóia;...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 950.000",
+        "area": "106m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "1",
+        "banheiros": "1",
+        "descricao": "ótima localização, c/ armários planejados, próximo ao parque do ibirapuera e prédio conservado c/ lazer.\nconsulte corretor.",
+        "data_atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 1.120.000",
+        "area": "140m²",
+        "dormitorios": "2",
+        "vagas": "",
+        "suites": "3",
+        "banheiros": "2",
+        "descricao": "Cobertura duplex com piscina aquecida. 140m2 com 3 dormitórios (sendo um deles reversível). duas vagas demarcadas. escritório. ar condicionado...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 1.100.000",
+        "area": "112m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "2",
+        "descricao": "Apartamento espetacular. ambientes espaçosos, bem ventilados e iluminados naturalmente. ótima divisão interna dos cômodos. repleto de armários...",
+        "data_atualizacao": "28-03-2014"
+      },
+      {
+        "preco": "R$ 840.000",
+        "area": "84m²",
+        "dormitorios": "3",
+        "vagas": "2",
+        "suites": "1",
+        "banheiros": "-",
+        "descricao": "Apartamento com 3 dormitórios sendo 1 suíte, terraço, lavabo, lazer, jardim e 2 vagas de garagem. ótima localização, próximo do parque do",
+        "data_atualizacao": "26-03-2014"
+      },
+      {
+        "preco": "R$ 770.000",
+        "area": "108m²",
+        "dormitorios": "3",
+        "vagas": "1",
+        "suites": "-",
+        "banheiros": "-",
+        "descricao": "Apto aconchegante proximo ao metro paraiso! - ref.: vm9925",
+        "data_atualizacao": "28-02-2014"
+      }
+    ]
+  }
+}

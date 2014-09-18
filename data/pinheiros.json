@@ -1,0 +1,214 @@
+{
+  "name": "123i",
+  "count": 20,
+  "frequency": "daily",
+  "version": 13,
+  "newdata": true,
+  "lastrunstatus": "success",
+  "lastsuccess": "Thu Apr 03 2014 22:49:35 GMT+0000 (UTC)",
+  "nextrun": "Fri Apr 04 2014 22:49:35 GMT+0000 (UTC)",
+  "results": {
+    "imoveis": [
+      {
+        "preco": "R$ 900.000",
+        "area": "105m²",
+        "suites": "-",
+        "dormitorios": "3",
+        "banheiros": "2",
+        "vagas": "1",
+        "atualizacao": "01-04-2014",
+        "descricao": "Apto com cara de casa, aconchegante, ensolarado e sem barulho. hall de entrada, sala grande com teto rebaixado, varanda 6 ms e jardim. andar superior..."
+      },
+      {
+        "preco": "R$ 2.000.000",
+        "area": "160m²",
+        "suites": "1",
+        "dormitorios": "4",
+        "banheiros": "2",
+        "vagas": "3",
+        "atualizacao": "01-04-2014",
+        "descricao": "Repleto de armários, hidromassagem na suíte, prédio em lazer total.apartamento para venda - pinheiros, 4 dormitório(s), 2 banheiro(s), 3"
+      },
+      {
+        "preco": "R$ 600.000",
+        "area": "48m²",
+        "suites": "-",
+        "dormitorios": "2",
+        "banheiros": "1",
+        "vagas": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento em pinheiros com lazer completo. excelente localização em rua tranquila, porém pertinho da avenida brigadeiro faria lima com fácil..."
+      },
+      {
+        "preco": "R$ 510.000",
+        "area": "72m²",
+        "suites": "-",
+        "dormitorios": "2",
+        "banheiros": "1",
+        "vagas": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento residencial à venda, pinheiros, são paulo. 72m²; sala para 2 ambientes; cozinha; 02 dormitórios; 01 banheiro; área de serviço; 01..."
+      },
+      {
+        "preco": "R$ 905.000",
+        "area": "74m²",
+        "suites": "1",
+        "dormitorios": "2",
+        "banheiros": "2",
+        "vagas": "1",
+        "atualizacao": "01-04-2014",
+        "descricao": "Excelente apartamento de 74mem uma única torre de 25 andares c4 aptos por andar c2 dorms sendo 1 suite,living 2 ambientes,andar alto,area de..."
+      },
+      {
+        "preco": "R$ 905.000",
+        "area": "74m²",
+        "suites": "1",
+        "dormitorios": "2",
+        "banheiros": "-",
+        "vagas": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento bem montado, em prédio novo, com toda infraestrutura de lazer, em rua tranquila."
+      },
+      {
+        "preco": "R$ 639.000",
+        "area": "60m²",
+        "suites": "1",
+        "dormitorios": "2",
+        "banheiros": "1",
+        "vagas": "-",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento totalmente reformado com 60 metros de área útil, 2 dormitórios, lavabo sala com dois ambientes, cozinha americana, área de serviço...."
+      },
+      {
+        "preco": "R$ 960.000",
+        "area": "139m²",
+        "suites": "1",
+        "dormitorios": "3",
+        "banheiros": "2",
+        "vagas": "1",
+        "atualizacao": "02-04-2014",
+        "descricao": "Apartamento residencial à venda, pinheiros, são paulo. apartamento lindo, uma unidade por andar, com 03 dormitórios sendo 01 suíte, banheiro..."
+      },
+      {
+        "preco": "R$ 1.650.000",
+        "area": "207m²",
+        "suites": "3",
+        "dormitorios": "3",
+        "banheiros": "4",
+        "vagas": "3",
+        "atualizacao": "01-04-2014",
+        "descricao": "Excelente cobertura duplex em estado original, bem conservada. otima planta com boa distribuicao dos ambientes, terraco. regiao rica em servicos,..."
+      },
+      {
+        "preco": "R$ 840.000",
+        "area": "80m²",
+        "suites": "1",
+        "dormitorios": "2",
+        "banheiros": "3",
+        "vagas": "1",
+        "atualizacao": "01-04-2014",
+        "descricao": "Predio recuado.lindo apartamento. ótima localização, amplo, bem distribuído, pé direito alto, rua arborizada. charmoso. sacada na sala.2014-03-31"
+      },
+      {
+        "preco": "R$ 2.350.000",
+        "area": "175m²",
+        "suites": "3",
+        "dormitorios": "3",
+        "banheiros": "5",
+        "vagas": "5",
+        "atualizacao": "01-04-2014",
+        "descricao": "Apto com 175m2 de area util, 3 suites com closet, 5 vagas de garagem, 3 sacadas sendo 1 gourmet, predio com apenas 8 andares, otima vista, lazer..."
+      },
+      {
+        "preco": "R$ 650.000",
+        "area": "98m²",
+        "suites": "-",
+        "dormitorios": "2",
+        "banheiros": "2",
+        "vagas": "1",
+        "atualizacao": "28-02-2014",
+        "descricao": "Excelente apartamento, com dois dormitórios, sala ampliada, cozinha americana, pintado, rico em armários, iluminado e com dependência de empregada..."
+      },
+      {
+        "preco": "R$ 920.000",
+        "area": "136m²",
+        "suites": "-",
+        "dormitorios": "3",
+        "banheiros": "2",
+        "vagas": "1",
+        "atualizacao": "01-04-2014",
+        "descricao": "Apartamento à uns 300 metro do metrô vila madalena, ótima localização. antigo com piso cascolac em bom estado portas de entrada blindadas e um..."
+      },
+      {
+        "preco": "R$ 1.385.000",
+        "area": "98m²",
+        "suites": "1",
+        "dormitorios": "3",
+        "banheiros": "2",
+        "vagas": "2",
+        "atualizacao": "01-04-2014",
+        "descricao": "Excelente lugar da vila madalena, apartamento novo. 3 dormitórios, sendo uma suíte, em banheiros com acabamento de alto padrão. living para dois..."
+      },
+      {
+        "preco": "R$ 1.560.000",
+        "area": "120m²",
+        "suites": "1",
+        "dormitorios": "3",
+        "banheiros": "3",
+        "vagas": "3",
+        "atualizacao": "01-04-2014",
+        "descricao": "Apartamento novo, pronto para morar. living integrado ao terraco. condominio com area de lazer de otima infraestrutura e localizacao privilegiada."
+      },
+      {
+        "preco": "R$ 440.000",
+        "area": "62m²",
+        "suites": "-",
+        "dormitorios": "2",
+        "banheiros": "1",
+        "vagas": "-",
+        "atualizacao": "01-04-2014",
+        "descricao": "Aconchegante apartamento de cômodos espaçosos no coração de pinheiros, próximo a tudo o que há de melhor neste nobre bairro. cheio de charme,..."
+      },
+      {
+        "preco": "R$ 1.335.000",
+        "area": "99m²",
+        "suites": "1",
+        "dormitorios": "3",
+        "banheiros": "3",
+        "vagas": "3",
+        "atualizacao": "01-04-2014",
+        "descricao": "Apartamento novo, pronto para morar. living integrado ao terraco. condominio com area de lazer de otima infraestrutura. localizacao privilegiada."
+      },
+      {
+        "preco": "R$ 840.000",
+        "area": "72m²",
+        "suites": "1",
+        "dormitorios": "2",
+        "banheiros": "-",
+        "vagas": "2",
+        "atualizacao": "02-04-2014",
+        "descricao": ""
+      },
+      {
+        "preco": "R$ 820.000",
+        "area": "95m²",
+        "suites": "1",
+        "dormitorios": "1",
+        "banheiros": "1",
+        "vagas": "1",
+        "atualizacao": "01-04-2014",
+        "descricao": "Cobertura-duplex,rico em armários,deck com churrasqueira,banheira de hidromassagem,1 dorm (uma suite),com tratamento acústico e ar condicionado..."
+      },
+      {
+        "preco": "R$ 960.000",
+        "area": "135m²",
+        "suites": "-",
+        "dormitorios": "3",
+        "banheiros": "1",
+        "vagas": "1",
+        "atualizacao": "01-04-2014",
+        "descricao": "Bom apartamento em otima localizacao, proxima a futura estacao de metro. boa distribuicao interna com ambientes amplos e arejados edificio recuado com"
+      }
+    ]
+  }
+}
