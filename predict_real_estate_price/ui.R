@@ -9,7 +9,7 @@ shinyUI(
         menu and see the price in the right side.")
       ),    
     sidebarPanel(
-      selectInput('bairro', 'Neighborhood', c('paraiso',
+      selectInput('bairro', 'Neighborhood name', c('paraiso',
                                         'perto_ibirapuera',
                                         'vila-mariana',                              
                                         'vila-nova-conceicao',

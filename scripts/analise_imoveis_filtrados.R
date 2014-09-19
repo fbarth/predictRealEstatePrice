@@ -7,6 +7,7 @@ data <- imoveis_filtrados
 sapply(data, summary)
 data <- subset(data, data$area > 10)
 data <- subset(data, data$suites < 11)
+data <- subset(data, data$area < 300)
 data$bairro <- factor(data$bairro)
 
 # plot dos dados
@@ -27,4 +28,8 @@ model <- lm(log(preco) ~ bairro + log(area) + dormitorios + suites + vagas,
             data=data)
 summary(model)
 
-save(model, file="form_apartment_price/model.Rda")
+data$banheiros <- NULL
+data <- data[complete.cases(data),]
+
+save(model, file="predict_real_estate_price/model.Rda")
+save(data, file="data//20140917_imoveis_filtrados_final.Rda")
