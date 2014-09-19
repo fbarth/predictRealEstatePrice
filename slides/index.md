@@ -14,9 +14,8 @@ knit        : slidify::knit2slides
 ## Introduction and motivation
 
 1. The price of residential real estate in Sao Paulo city has grown very fast in recent years, especially in some neighborhoods.
-3. *To understand the prices*, I crawled some data from real estate agencies sities and 
-built a regression model using attributes (i.e., neighborhood name, size, bedrooms,
-bedrooms with bathrooms and carspaces quantity) to predict the price.
+2. To understand these prices, I accessed some data from estate agencies and 
+built a regression model to predict the real estate price, using attributes like: neighborhood name, size, bedrooms, bedrooms with bathrooms and carspaces quantity.
 
 
 ```
@@ -34,8 +33,7 @@ bedrooms with bathrooms and carspaces quantity) to predict the price.
 
 1. I used a python script to crawler the data. You can find this script [here](https://github.com/fbarth/predictRealEstatePrice/blob/master/data/crawler.py).
 
-2. In September 17,2014 I crawled _104560_ apartment records. I filtered the data selecting only apartments from certain 
-neighborhoods and with size less than 300 square meters. The final dataset has _4701_ examples.
+2. In September 17,2014 I crawled _104560_ apartment records. I selected only apartments from specific neighborhoods and with size less than 300 square meters. The final dataset has _4701_ examples.
 
 ![plot of chunk unnamed-chunk-2](assets/fig/unnamed-chunk-2.png) 
 
@@ -74,5 +72,8 @@ neighborhoods and with size less than 300 square meters. The final dataset has _
 
 ## Application and references
 
-1. The model developed here works well. But, it can be improved using information about the age of apartment, if the building has (or not) recreation are, swimming pool, etc.
-3. The model built in this work was deployed as an application. The URL of this application is [https://fbarth.shinyapps.io/predict_real_estate_price/](https://fbarth.shinyapps.io/predict_real_estate_price/)
+1. The model developed here works well. But, it can be improved using information about the age of apartment, if the building has (or not) recreation area, swimming pool, etc.
+2. The model built in this work was deployed as an application. The URL of this application is [https://fbarth.shinyapps.io/predict_real_estate_price/](https://fbarth.shinyapps.io/predict_real_estate_price/)
+3. All the code of this project can be accessed on [https://github.com/fbarth/predictRealEstatePrice](https://github.com/fbarth/predictRealEstatePrice).
+
+

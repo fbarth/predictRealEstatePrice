@@ -1,4 +1,4 @@
 name: predict_real_estate_price
 account: fbarth
-bundleId: 54063
+bundleId: 54196
 url: http://fbarth.shinyapps.io/predict_real_estate_price
