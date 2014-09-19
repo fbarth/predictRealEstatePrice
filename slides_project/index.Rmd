@@ -1,0 +1,73 @@
+---
+title       : Residential Real Estate Prices Prediction
+subtitle    : 
+author      : Fabrício J. Barth
+job         : 
+framework   : io2012      # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Introduction and motivation
+
+1. The price of residential real estate in Sao Paulo city has grown very fast in recent years, especially in some neighborhoods.
+3. *To understand the prices*, I crawled some data from real estate agencies sities and 
+built a regression model using attributes (i.e., neighborhood name, size, bedrooms,
+bedrooms with bathrooms and carspaces quantity) to predict the price.
+
+````{r echo=FALSE}
+load("../data//20140917_imoveis_filtrados_final.Rda")
+load("../data/20140917_imoveis_completo.rda")
+data[1:5,c('bairro','area','suites','dormitorios','preco')]
+````
+--- .class #id 
+
+## Crawling data
+
+1. I used a python script to crawler the data. You can find this script [here](https://github.com/fbarth/predictRealEstatePrice/blob/master/data/crawler.py).
+
+2. In September 17,2014 I crawled _`r dim(imoveis)[1]`_ apartment records. I filtered the data selecting only apartments from certain 
+neighborhoods and with size less than 300 square meters. The final dataset has _`r dim(data)[1]`_ examples.
+
+````{r echo=FALSE, fig.height=5, fig.width=14}
+library(ggplot2)
+qplot(data$area, data$preco, size=data$suites, col=data$bairro, 
+      xlab="Size (m2)", ylab="Price", main="Apartments: prices versus Size")
+````
+
+--- .class #id 
+
+## Building the model
+
+1. I built a regression model for price (preço) using neighborhood name (bairro), size (area), bedrooms (dormitórios), bedrooms with bathrooms (suítes) and carspaces quantity (vagas). The formula was: lm(log(preco) ~ bairro + log(area) + dormitorios + suites + vagas, data=data). The coefficients are:
+
+````{r echo=FALSE}
+load("../predict_real_estate_price/model.Rda")
+model$coefficients
+s <- summary(model)
+````
+
+--- .class #id 
+
+## Evaluating the model
+
+1. The Adjusted R-squared is `r s$adj.r.squared`.
+
+````{r echo=FALSE, fig.height=5, fig.width=14}
+par(mfrow=c(1,2))
+plot(model, which=1)
+#boxplot(exp(s$residuals))
+data$predicted <- exp(predict(model, newdata=data))
+data$erro <- abs(data$preco - data$predicted)
+boxplot(data$erro, outline=FALSE, col="cyan", main="Error of prediction in BRL")
+````
+
+--- .class #id 
+
+## Application and references
+
+1. The model developed here works well. But, it can be improved using information about the age of apartment, if the building has (or not) recreation are, swimming pool, etc.
+3. The model built in this work was deployed as an application. The URL of this application is [https://fbarth.shinyapps.io/predict_real_estate_price/](https://fbarth.shinyapps.io/predict_real_estate_price/)

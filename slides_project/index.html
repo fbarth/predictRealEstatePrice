@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Residential Real Estate Prices Prediction</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Residential Real Estate Prices Prediction">
+  <meta name="author" content="Fabrício J. Barth">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/ribbons.css"></link>
+
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <hgroup class="auto-fadein">
+    <h1>Residential Real Estate Prices Prediction</h1>
+    <h2></h2>
+    <p>Fabrício J. Barth<br/></p>
+  </hgroup>
+  <article></article>  
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>Introduction and motivation</h2>
+  </hgroup>
+  <article data-timings="">
+    <ol>
+<li>The price of residential real estate in Sao Paulo city has grown very fast in recent years, especially in some neighborhoods.</li>
+<li><em>To understand the prices</em>, I crawled some data from real estate agencies sities and 
+built a regression model using attributes (i.e., neighborhood name, size, bedrooms,
+bedrooms with bathrooms and carspaces quantity) to predict the price.</li>
+</ol>
+
+<pre><code>##                    bairro area suites dormitorios   preco
+## 34130 vila-nova-conceicao   32      1           1  490000
+## 34132 vila-nova-conceicao  192      4           4 4675000
+## 34133 vila-nova-conceicao  140      2           2 2850000
+## 34134 vila-nova-conceicao  157      2           2 3180000
+## 34136 vila-nova-conceicao  205      2           3 1900000
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Crawling data</h2>
+  </hgroup>
+  <article data-timings="">
+    <ol>
+<li><p>I used a python script to crawler the data. You can find this script <a href="https://github.com/fbarth/predictRealEstatePrice/blob/master/data/crawler.py">here</a>.</p></li>
+<li><p>In September 17,2014 I crawled <em>104560</em> apartment records. I filtered the data selecting only apartments from certain 
+neighborhoods and with size less than 300 square meters. The final dataset has <em>4701</em> examples.</p></li>
+</ol>
+
+<p><img src="assets/fig/unnamed-chunk-2.png" alt="plot of chunk unnamed-chunk-2"> </p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Building the model</h2>
+  </hgroup>
+  <article data-timings="">
+    <ol>
+<li>I built a regression model for price (preço) using neighborhood name (bairro), size (area), bedrooms (dormitórios), bedrooms with bathrooms (suítes) and carspaces quantity (vagas). The formula was: lm(log(preco) ~ bairro + log(area) + dormitorios + suites + vagas, data=data). The coefficients are:</li>
+</ol>
+
+<pre><code>##               (Intercept)        bairrovila-mariana 
+##                  10.75519                  -0.12264 
+## bairrovila-nova-conceicao          bairrovila-sonia 
+##                   0.29435                  -0.58783 
+##    bairroperto_ibirapuera                 log(area) 
+##                  -0.06808                   0.60930 
+##               dormitorios                    suites 
+##                  -0.04829                   0.08100 
+##                     vagas 
+##                   0.18675
+</code></pre>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Evaluating the model</h2>
+  </hgroup>
+  <article data-timings="">
+    <ol>
+<li>The Adjusted R-squared is 0.8822.</li>
+</ol>
+
+<p><img src="assets/fig/unnamed-chunk-4.png" alt="plot of chunk unnamed-chunk-4"> </p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>Application and references</h2>
+  </hgroup>
+  <article data-timings="">
+    <ol>
+<li>The model developed here works well. But, it can be improved using information about the age of apartment, if the building has (or not) recreation are, swimming pool, etc.</li>
+<li>The model built in this work was deployed as an application. The URL of this application is <a href="https://fbarth.shinyapps.io/predict_real_estate_price/">https://fbarth.shinyapps.io/predict_real_estate_price/</a></li>
+</ol>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='Introduction and motivation'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='Crawling data'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='Building the model'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='Evaluating the model'>
+         4
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=5 title='Application and references'>
+         5
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>
