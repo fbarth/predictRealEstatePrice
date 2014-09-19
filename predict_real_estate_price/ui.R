@@ -32,7 +32,9 @@ shinyUI(
         famous park of Sao Paulo city. Vila Sonia is part of suburb of Sao Paulo."),
       p("In the size field you can select the size of apartment in meters."),
       p("The other fields are used to indicate how many bedrooms, bedrooms with 
-        bathrooms and carspaces the apartment have.")
+        bathrooms and carspaces the apartment have."),
+      p("For more information about this app, please go to 
+        http://fbarth.github.io/predictRealEstatePrice/slides")
     )
   )
 )
